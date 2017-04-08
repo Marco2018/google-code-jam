@@ -104,3 +104,8 @@ build-iPhoneSimulator/
 *~
 ._*
 *_flymake.*
+
+# Ignore given input/output files in contests.
+*.in
+*.out
+
